@@ -6,7 +6,7 @@
 #### 6
 #### 7 Ronnie isn't here
 #### 8
-#### 9 Github is really good. 
+#### 9 Github is really awesome. 
 #### 10
 #### 11
 #### 12

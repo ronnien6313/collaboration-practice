@@ -1,6 +1,6 @@
 # Collaboration Practice
 ## _Practicing Merges & Conflicts_
-
+hi
 The purpose of this activity is to practice collaboration with Git and GitHub.  You will practice both automatic merges as well as merge conflicts (and resolving those conflicts).
 
 ---
